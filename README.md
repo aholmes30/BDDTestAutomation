@@ -30,6 +30,8 @@ external libraries:
 |-READMD.md                        #  you are currently viewing this file
 ```
 
+![screenshot](/images/BDDframeworkscreenshot.png)
+
 ### Execution Triggers
 Executing specific tests
 ```
